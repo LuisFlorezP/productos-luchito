@@ -4,6 +4,7 @@ const Home = () => {
     return (
         <section>
             <Header />
+            <section id="inicio"></section>
         </section>
     );
 };
