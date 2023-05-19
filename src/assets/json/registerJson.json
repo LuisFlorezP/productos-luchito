@@ -4,7 +4,7 @@
         "nombre": "Leche fortileche Latti 900 ML",
         "precio": 4690,
         "clasificacion": "Lácteos",
-        "disponibilidad": false,
+        "disponibilidad": "NO",
         "existencias": 0
     },
     {
@@ -12,7 +12,7 @@
         "nombre": "Leche en polvo Entera Latti 1000 G",
         "precio": 23990,
         "clasificacion": "Lácteos",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 30
     },
     {
@@ -20,7 +20,7 @@
         "nombre": "Yogurt sabor tradicional coco 2000 GR",
         "precio": 18990,
         "clasificacion": "Lácteos",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 43
     },
     {
@@ -28,7 +28,7 @@
         "nombre": "Yogurt griego natural sin azucar 330 GR",
         "precio": 0,
         "clasificacion": "Lácteos",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 56
     },
     {
@@ -36,7 +36,7 @@
         "nombre": "Parfait sabores surtidos Latti 160 GR",
         "precio": 4850,
         "clasificacion": "Lácteos",
-        "disponibilidad": false,
+        "disponibilidad": "NO",
         "existencias": 0
     },
     {
@@ -44,7 +44,7 @@
         "nombre": "Imitación queso en lonchas sabor mozzarella 272 GR",
         "precio": 7390,
         "clasificacion": "Lácteos",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 76
     },
     {
@@ -52,7 +52,7 @@
         "nombre": "Crema de leche larga vida Latti 200 ML",
         "precio": 2190,
         "clasificacion": "Lácteos",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 88
     },
     {
@@ -60,7 +60,7 @@
         "nombre": "Alpinito surtido fresa o melocotón 4 UND - 180 GR",
         "precio": 4990,
         "clasificacion": "Lácteos",
-        "disponibilidad": false,
+        "disponibilidad": "NO",
         "existencias": 0
     },
     {
@@ -68,7 +68,7 @@
         "nombre": "Polvo abrasivo brilla King 500 GRS",
         "precio": 2150,
         "clasificacion": "Cuidado de superficies y cocina",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 78
     },
     {
@@ -76,7 +76,7 @@
         "nombre": "Blanqueador en gel brilla King 1000 ML",
         "precio": 5490,
         "clasificacion": "Cuidado de superficies y cocina",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 110
     },
     {
@@ -84,7 +84,7 @@
         "nombre": "Crema lavaloza brilla King 500 GRS",
         "precio": 2790,
         "clasificacion": "Cuidado de superficies y cocina",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 99
     },
     {
@@ -92,7 +92,7 @@
         "nombre": "Lavaloza líquido brilla King 500 ML",
         "precio": 2690,
         "clasificacion": "Cuidado de superficies y cocina",
-        "disponibilidad": false,
+        "disponibilidad": "NO",
         "existencias": 0
     },
     {
@@ -100,7 +100,7 @@
         "nombre": "Toallas desinfectantes brilla King 10 UND",
         "precio": 1290,
         "clasificacion": "Cuidado de superficies y cocina",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 59
     },
     {
@@ -108,7 +108,7 @@
         "nombre": "Limpiavidrios brilla King 500 ML",
         "precio": 2250,
         "clasificacion": "Cuidado de superficies y cocina",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 172
     },
     {
@@ -116,7 +116,7 @@
         "nombre": "Desinfectante multiusos brilla King 500 ML",
         "precio": 4190,
         "clasificacion": "Cuidado de superficies y cocina",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 97
     },
     {
@@ -124,7 +124,7 @@
         "nombre": "Varsol emulsionado brilla King 800 ML",
         "precio": 5990,
         "clasificacion": "Cuidado de superficies y cocina",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 66
     },
     {
@@ -132,7 +132,7 @@
         "nombre": "Carne molida de res x 500 G",
         "precio": 10990,
         "clasificacion": "Congelados",
-        "disponibilidad": false,
+        "disponibilidad": "NO",
         "existencias": 0
     },
     {
@@ -140,7 +140,7 @@
         "nombre": "Pinchos de pollos apanado Brasset 4 UND - 200 G",
         "precio": 5750,
         "clasificacion": "Congelados",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 79
     },
     {
@@ -148,7 +148,7 @@
         "nombre": "Empanada con carne Toastatas 12 UND - 420 G",
         "precio": 7450,
         "clasificacion": "Congelados",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 23
     },
     {
@@ -156,7 +156,7 @@
         "nombre": "Helado vainilla Kulfi 1 L",
         "precio": 12590,
         "clasificacion": "Congelados",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 59
     },
     {
@@ -164,7 +164,7 @@
         "nombre": "Lomo de cerdo x 500 G",
         "precio": 10990,
         "clasificacion": "Congelados",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 61
     },
     {
@@ -172,7 +172,7 @@
         "nombre": "Pulpa de fruta sabores surtidos Tree Fruts 3 UND - 480 G",
         "precio": 5490,
         "clasificacion": "Congelados",
-        "disponibilidad": false,
+        "disponibilidad": "NO",
         "existencias": 0
     },
     {
@@ -180,7 +180,7 @@
         "nombre": "Trocitos de pechuga importados Brasset 500 GRS",
         "precio": 9490,
         "clasificacion": "Congelados",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 33
     },
     {
@@ -188,7 +188,7 @@
         "nombre": "Dedito de queso Backerei 10 UND - 250 G",
         "precio": 6690,
         "clasificacion": "Congelados",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 210
     },
     {
@@ -196,7 +196,7 @@
         "nombre": "Alimento para gatos Magic Friends 1000 G",
         "precio": 6290,
         "clasificacion": "Mascotas",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 49
     },
     {
@@ -204,7 +204,7 @@
         "nombre": "Alimento húmedo para gatos Whiskas 85 G",
         "precio": 2850,
         "clasificacion": "Mascotas",
-        "disponibilidad": false,
+        "disponibilidad": "NO",
         "existencias": 0
     },
     {
@@ -212,7 +212,7 @@
         "nombre": "Bolsas para desechos de mascotas Magic Friends 60 UND",
         "precio": 4690,
         "clasificacion": "Mascotas",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 11
     },
     {
@@ -220,7 +220,7 @@
         "nombre": "Snack dentastix para perro x 1 barra",
         "precio": 3690,
         "clasificacion": "Mascotas",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 30
     },
     {
@@ -228,7 +228,7 @@
         "nombre": "Alimento para perros Magic Friends 8000 G",
         "precio": 32990,
         "clasificacion": "Mascotas",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 88
     },
     {
@@ -236,7 +236,7 @@
         "nombre": "Galletas para perros Magic Friends 150 G",
         "precio": 2890,
         "clasificacion": "Mascotas",
-        "disponibilidad": false,
+        "disponibilidad": "NO",
         "existencias": 0
     },
     {
@@ -244,7 +244,7 @@
         "nombre": "Alimento húmedo para cachorros Pedigree 100 G",
         "precio": 2850,
         "clasificacion": "Mascotas",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 44
     },
     {
@@ -252,7 +252,7 @@
         "nombre": "Hueso de carnaza para perros Magic Friends 3 UND",
         "precio": 4290,
         "clasificacion": "Mascotas",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 52
     },
     {
@@ -260,7 +260,7 @@
         "nombre": "Arepa de yuca Masmaí 4 UND - 240 G",
         "precio": 4190,
         "clasificacion": "Alimentos y despensa",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 87
     },
     {
@@ -268,7 +268,7 @@
         "nombre": "Salchicha ranchera 4 UND - 131 G",
         "precio": 5290,
         "clasificacion": "Alimentos y despensa",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 144
     },
     {
@@ -276,7 +276,7 @@
         "nombre": "Manzana Royal Gala 1000 GRS",
         "precio": 10650,
         "clasificacion": "Alimentos y despensa",
-        "disponibilidad": false,
+        "disponibilidad": "NO",
         "existencias": 0
     },
     {
@@ -284,7 +284,7 @@
         "nombre": "Tomates enteros pelados Deliziare 400 G",
         "precio": 4490,
         "clasificacion": "Alimentos y despensa",
-        "disponibilidad": false,
+        "disponibilidad": "NO",
         "existencias": 0
     },
     {
@@ -292,7 +292,7 @@
         "nombre": "Salmón en aceite Carlo Forte 170 G",
         "precio": 10490,
         "clasificacion": "Alimentos y despensa",
-        "disponibilidad": false,
+        "disponibilidad": "NO",
         "existencias": 0
     },
     {
@@ -300,7 +300,7 @@
         "nombre": "Maíz tierno Cooltivo 340 G",
         "precio": 4990,
         "clasificacion": "Alimentos y despensa",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 22
     },
     {
@@ -308,7 +308,7 @@
         "nombre": "Conchas Doria 250 G",
         "precio": 2150,
         "clasificacion": "Alimentos y despensa",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 74
     },
     {
@@ -316,7 +316,7 @@
         "nombre": "Esparcible multiusos Rama 250 G",
         "precio": 4690,
         "clasificacion": "Alimentos y despensa",
-        "disponibilidad": false,
+        "disponibilidad": "NO",
         "existencias": 0
     },
     {
@@ -324,7 +324,7 @@
         "nombre": "Afeitadora recargable mango + 2 repuestos Gillette",
         "precio": 11490,
         "clasificacion": "Aseo y cuidado personal",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 39
     },
     {
@@ -332,7 +332,7 @@
         "nombre": "Máquinas para afeitar 3 hojas mujer Xen 2 UND",
         "precio": 2990,
         "clasificacion": "Aseo y cuidado personal",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 61
     },
     {
@@ -340,7 +340,7 @@
         "nombre": "Kola granulada Tarrito Rojo 210 G",
         "precio": 9190,
         "clasificacion": "Aseo y cuidado personal",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 77
     },
     {
@@ -348,7 +348,7 @@
         "nombre": "Vitamina C en tabletas masticable Cebion 8 UND",
         "precio": 4490,
         "clasificacion": "Aseo y cuidado personal",
-        "disponibilidad": false,
+        "disponibilidad": "NO",
         "existencias": 0
     },
     {
@@ -356,7 +356,7 @@
         "nombre": "Polvo compacto canela USK",
         "precio": 14990,
         "clasificacion": "Aseo y cuidado personal",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 29
     },
     {
@@ -364,7 +364,7 @@
         "nombre": "Crema corporal Natural Feeling 500 ML",
         "precio": 7990,
         "clasificacion": "Aseo y cuidado personal",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 40
     },
     {
@@ -372,7 +372,7 @@
         "nombre": "Crema dental aliento fresco Colgate Total 75 ML",
         "precio": 8990,
         "clasificacion": "Aseo y cuidado personal",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 167
     },
     {
@@ -380,7 +380,7 @@
         "nombre": "Papel higiénico 3 hojas Rendy 12 UND - 33 MTS",
         "precio": 14990,
         "clasificacion": "Aseo y cuidado personal",
-        "disponibilidad": true,
+        "disponibilidad": "SI",
         "existencias": 202
     },
     {
@@ -388,7 +388,7 @@
         "nombre": "Morral térmico arctic zone x 1 UND",
         "precio": 89990,
         "clasificacion": "Extraordinarios",
-        "disponibilidad": false,
+        "disponibilidad": "NO",
         "existencias": 0
     },
     {
@@ -396,7 +396,7 @@
         "nombre": "TV led Smart 32",
         "precio": 649990,
         "clasificacion": "Extraordinarios",
-        "disponibilidad": false,
+        "disponibilidad": "NO",
         "existencias": 0
     }
 ]

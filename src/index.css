@@ -71,16 +71,27 @@
   justify-content: center;
 }
 
-#card {
+.card {
   width: 280px;
-  height: 350px;
+  height: 420px;
   display: flex;
   flex-direction: column;
   text-align: center;
   justify-content: space-around;
   align-items: center;
-  background-color: #D9CB67;
+  background-color: #E62110;
   margin: 20px 20px 20px 20px;
+  padding: 20px;
+  border-radius: 20px;
+  border: 3px solid white;
+  box-shadow: 3px 3px 5px black;
+}
+
+.imagen {
+  height: auto;
+  width: 170px;
+  margin-bottom: 20px;
+  border: 2px solid black;
 }
 
 #final {

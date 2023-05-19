@@ -5,9 +5,14 @@ const Informacion = () => {
         <section id="informacion">
             {
                 register.map((registro) => (
-                    <section id="card">
-                        <p>{registro.nombre}</p>
-                        <img src={registro.imagen} alt="" />
+                    <section className="card">                            
+                        <img className="imagen" src={registro.imagen} alt="" />
+                        <p><strong>{registro.nombre}</strong></p>
+                        <p><strong>Precio:</strong> $ {registro.precio}</p>
+                        <p><strong>Clasificación:</strong></p>
+                        <p>{registro.clasificacion}</p>
+                        <p><strong>Disponibilidad:</strong> {registro.disponibilidad}</p>
+                        <p><strong>Existencias:</strong> {registro.existencias}</p>
                     </section>
                 ))
             }
